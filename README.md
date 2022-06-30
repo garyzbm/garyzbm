@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Gary Zhang ✨
+### Hi there 👋
 
-![GitHub User's stars](https://img.shields.io/github/stars/garyzhang2002?color=orange&style=for-the-badge)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=garyzhang2002&show_icons=true&theme=buefy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhang2002)
 
 <img src = "cool.gif">
 
