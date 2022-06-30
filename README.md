@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Gary Zhang ✨
+
+![GitHub User's stars](https://img.shields.io/github/stars/garyzhang2002?color=orange&style=for-the-badge)
 
 <img src = "cool.gif">
 
