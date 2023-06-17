@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=garyzhang2002&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyzhang2002&theme=buefy&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=garyzbm&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyzbm&theme=buefy&hide_border=true"/>
 
 <!--
-**garyzhang2002/garyzhang2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**garyzbm/garyzbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
